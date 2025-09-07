@@ -1,2 +1,3 @@
 hello2 from feature sửa lại cho conflict
+hello2 from feature sửa lại nè hehe 2
 hello2 from main
