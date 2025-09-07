@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 first code 
-=======
 second code 
->>>>>>> 0026c1d (Create team.txt)
