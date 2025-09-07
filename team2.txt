@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello2 from feature
-=======
 hello2 from main
->>>>>>> main
