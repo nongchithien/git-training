@@ -1,2 +1,2 @@
-hello2 from feature 
+hello2 from feature sửa lại cho conflict
 hello2 from main
