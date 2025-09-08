@@ -1,2 +1,5 @@
 test code line 1
+<<<<<<< HEAD
 test code line 2
+=======
+>>>>>>> main
