@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello from main
-=======
 hello from feature-info
->>>>>>> feature-info
